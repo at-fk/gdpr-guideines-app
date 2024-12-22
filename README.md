@@ -1,3 +1,4 @@
+
 # GDPR Guidelines Search App
 
 A Streamlit application for searching and analyzing GDPR guidelines using AI.
@@ -28,3 +29,4 @@ Required environment variables:
 - AI-powered response generation
 - Context-aware results
 - Export functionality
+
