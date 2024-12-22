@@ -28,5 +28,5 @@ Required environment variables:
 - Search through GDPR guidelines
 - AI-powered response generation
 - Context-aware results
-- Export functionality
+
 
